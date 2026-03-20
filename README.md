@@ -27,7 +27,7 @@ The dataset is manually scraped from the Google Play Store using the `google_pla
 * Machine learning models: 
   - Logistic Regression
   - Support Vector Machine (SVM)
-    -> These models are chosen because they are well-known for strong performance in text classification tasks, especially when combined with TF-IDF features. They are also efficient, interpretable, and suitable as baseline models.
+    > These models are chosen because they are well-known for strong performance in text classification tasks, especially when combined with TF-IDF features. They are also efficient, interpretable, and suitable as baseline models.
   
 * Deep learning models: 
   - Multi Layer Perceptron (MLP)
