@@ -6,7 +6,8 @@ This project focuses on analyzing user sentiment from reviews of the Notion app 
 The project implements a complete end-to-end pipeline, starting from manual data collection to model evaluation, combining multiple feature extraction techniques with both machine learning and deep learning models. The goal is to explore different approaches and identify the most effective method for sentiment classification.
 
 ## ⚙️ Project Pipeline
-### 1. Data Collection: The dataset is manually scraped from the Google Play Store using the `google_play_scraper` library
+### 1. Data Collection: 
+The dataset is manually scraped from the Google Play Store using the `google_play_scraper` library
 
 ### 2. Data preprocessing: 
 * Cleaning text: Remove non-alphabet characters
