@@ -25,12 +25,12 @@ The dataset is manually scraped from the Google Play Store using the `google_pla
  
 ### 4. Model Development: 
 * Machine learning models: 
-- Logistic Regression
-- Support Vector Machine (SVM)
+  - Logistic Regression
+  - Support Vector Machine (SVM)
   These models are chosen because they are well-known for strong performance in text classification tasks, especially when combined with TF-IDF features. They are also efficient, interpretable, and suitable as baseline models.
   
 * Deep learning models: 
-- Multi Layer Perceptron (MLP)
+  - Multi Layer Perceptron (MLP)
   MLP is used to capture more complex patterns in the data compared to traditional machine learning models. It allows the model to learn non-linear relationships between features and improve classification performance.
   
 ### 5.  Model Evaluation:
